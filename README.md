@@ -16,6 +16,7 @@ This class is an implementation of a model reported in Young-Mok Won and Brian G
     4) To plot the results: run plot method as: ms.plot(fs,cl,elements) 
 
 ## Examples: matlab code for modelling microsegregation of an laboratory steel 
+```matlab
 comp.C = 0.0023;
 comp.Si = 0.011;
 comp.Mn = 0.2;
