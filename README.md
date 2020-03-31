@@ -1,6 +1,8 @@
 # Microsegregation
 This class is an implementation of a model reported in Young-Mok Won and Brian G.Thomas, Simple Model of Microsegregation during Solidification of Steels. Metallurgurgical and Materials Transactions A, 2001, 32A, pp 1757-1767. https://doi.org/10.1007/s11661-001-0152-4. 
 
+[![View Microsegregation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/74792-microsegregation)
+
 ## How to use this class:
 
     1. Initialise an instance of an object i.e. ms = Microsegration([input arguments])
