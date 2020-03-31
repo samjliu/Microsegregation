@@ -100,4 +100,4 @@ msteel = msteel.calculate(fs,coolrate);
 h = msteel.plot;comp.C = 0.0023;
 
 ### Result
-    
+![Example](https://github.com/samjliu/Microsegregation/blob/master/example.png)    
